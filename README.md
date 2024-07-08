@@ -27,7 +27,7 @@ Soy un entusiasta de la tecnología y estoy comenzando mi viaje en el mundo de l
 
 - 🏋️ Me gusta hacer ejercicio
 - 🚶 Disfruto caminar y hacer senderismo
-- 🎶 Escuchar música
+- 🎶 Escuchar música y ver anime
 - 🐶 Jugar con mis mascotas
 - 🌟 Siempre estoy buscando nuevas formas de mejorar y aprender más sobre tecnología.
 
