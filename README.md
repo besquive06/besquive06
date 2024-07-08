@@ -1,5 +1,7 @@
 # ¡Hola! Soy besquive06 👋
 
+![Banner](https://github.com/besquive06/images/blob/main/download%20(1).jpg)
+
 ### Bienvenidos a mi perfil de GitHub
 
 Soy un entusiasta de la tecnología y estoy comenzando mi viaje en el mundo de la programación. Actualmente, estoy tomando un curso para principiantes y aprendiendo los fundamentos de la programación.
